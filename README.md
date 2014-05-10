@@ -13,3 +13,25 @@ Esse software tem como objetivo analisar os preços de determinados produtos "it
   <img src="http://i.imgur.com/E1rWtkc.png">
   
 <h4><b>1.2.2 Resumo do problema</b></h4>
+
+  O usuário irá cadastrar o item da loja, e podera acompanhar qual é sua variação de preço em tempo real.
+  
+<h4><b>1.2.3.1 Requisitos - funcionais</b></h4> 
+
+  - O usuário irá cadastrar o item através de uma URL.
+  - A URL deve ser exclusivamente do site (http://steamcommunity.com/market/).
+  - Os dados serão salvos.
+  - O usuário poderá remover o item que foi inserido anteriomente.
+  - O usuário tem acesso ao painel de configuração do programa, onde poderá configurar o modo de alerta e a margem de variação de preço.
+  - O programa alerta o usuário quando o preço está em alta ou em baixa.
+  - O programa deve rodar em constatemente e suas verificações também.
+  
+  - TODO: completar requisitos
+  
+
+<h4><b>1.2.3.2 Requisitos - Não funcionais</b></h4>
+  
+  - Os dados serão salvos em um Banco de Dados
+  - A URL deve possuir um filtro de verificação.
+  
+  - TODO: completar requisitos
