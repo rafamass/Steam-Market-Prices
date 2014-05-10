@@ -8,7 +8,5 @@ Steam Market Prices
 
 1.2 Analise do problema.
 
-http://i.imgur.com/E1rWtkc.png
 
-[I] O [/I]
-
+  <img src="http://i.imgur.com/E1rWtkc.png">
