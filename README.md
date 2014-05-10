@@ -7,3 +7,5 @@ Steam Market Prices
 
 
 1.2 Analise do problema.
+
+[IMG]http://i.imgur.com/E1rWtkc.png[/IMG]
