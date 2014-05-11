@@ -25,6 +25,9 @@ Esse software tem como objetivo analisar os preços de determinados produtos "it
   - O usuário tem acesso ao painel de configuração do programa, onde poderá configurar o modo de alerta e a margem de variação de preço.
   - O programa alerta o usuário quando o preço está em alta ou em baixa.
   - O programa deve rodar em constatemente e suas verificações também.
+  - O programa informa a situação que se encontra o site (ON/OFF).
+  - O moeda tratada com usuário será o Real.
+  - Todos valores diferentes da moeda Real deverá ser convertido.
   
   - TODO: completar requisitos
   
@@ -33,5 +36,7 @@ Esse software tem como objetivo analisar os preços de determinados produtos "it
   
   - Os dados serão salvos em um Banco de Dados
   - A URL deve possuir um filtro de verificação.
+  - Modo de alerta poderá ser por pop-up no  Windows ou por mensagem via twitter.
+  - O intervalo de verificação poderá ser ajustado pelo usuário entre 5 segundos a "n" horas
   
   - TODO: completar requisitos
